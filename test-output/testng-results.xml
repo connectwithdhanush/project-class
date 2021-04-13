@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="18474" started-at="2021-04-12T13:38:11Z" finished-at="2021-04-12T13:38:29Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="18474" started-at="2021-04-12T13:38:11Z" finished-at="2021-04-12T13:38:29Z">
+      <class name="org.blazemainprogram.ReportBlaze">
+        <test-method status="PASS" signature="urlLaunch()[pri:0, instance:org.blazemainprogram.ReportBlaze@53b32d7]" name="urlLaunch" is-config="true" duration-ms="7879" started-at="2021-04-12T13:38:11Z" finished-at="2021-04-12T13:38:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlLaunch -->
+        <test-method status="PASS" signature="findFlight(java.lang.String, java.lang.String)[pri:1, instance:org.blazemainprogram.ReportBlaze@53b32d7]" name="findFlight" duration-ms="1720" started-at="2021-04-12T13:38:19Z" finished-at="2021-04-12T13:38:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Boston]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Berlin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findFlight -->
+        <test-method status="PASS" signature="chooseTheFlight()[pri:2, instance:org.blazemainprogram.ReportBlaze@53b32d7]" name="chooseTheFlight" duration-ms="1012" started-at="2021-04-12T13:38:20Z" finished-at="2021-04-12T13:38:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chooseTheFlight -->
+        <test-method status="PASS" signature="details(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:org.blazemainprogram.ReportBlaze@53b32d7]" name="details" duration-ms="4728" started-at="2021-04-12T13:38:21Z" finished-at="2021-04-12T13:38:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dhana]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tambaram]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[chennai]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[tamilnadu]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[54321]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[American Express]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[9003965169123456]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[06]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[2018]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[dhanush]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- details -->
+        <test-method status="PASS" signature="id()[pri:4, instance:org.blazemainprogram.ReportBlaze@53b32d7]" name="id" duration-ms="2047" started-at="2021-04-12T13:38:26Z" finished-at="2021-04-12T13:38:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- id -->
+        <test-method status="PASS" signature="end()[pri:0, instance:org.blazemainprogram.ReportBlaze@53b32d7]" name="end" is-config="true" duration-ms="968" started-at="2021-04-12T13:38:28Z" finished-at="2021-04-12T13:38:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- org.blazemainprogram.ReportBlaze -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

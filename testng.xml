@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test thread-count="5" name="Test">
+		<classes>
+			<class name="org.blazemainprogram.ReportBlaze" />
+
+			<parameter name="dep" value="Boston"></parameter>
+			<parameter name="des" value="Berlin"></parameter>
+
+			<parameter name="name" value="dhana"></parameter>
+			<parameter name="address" value="tambaram"></parameter>
+			<parameter name="city" value="chennai"></parameter>
+			<parameter name="state" value="tamilnadu"></parameter>
+			<parameter name="zip" value="54321"></parameter>
+			<parameter name="type" value="American Express"></parameter>
+			<parameter name="cno" value="9003965169123456"></parameter>
+			<parameter name="month" value="06"></parameter>
+			<parameter name="year" value="2018"></parameter>
+			<parameter name="cname" value="dhanush"></parameter>
+
+
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
